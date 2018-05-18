@@ -1,4 +1,4 @@
-﻿# Introduction
+# Introduction
 A silly script interpreter for the RFJ project. The interpreter is less than 1,000 LOC and can only understand the very limited subset of JavaScript.
 
 ## Language Specs
@@ -28,7 +28,7 @@ var obj = {
 
 ### Functions
 Function declarations must be in the following syntax.
-```
+```js
 var name = function (args) { ...; return ...; };
 ```
 - Of course, the `return` statement is optional.
