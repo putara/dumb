@@ -1,5 +1,6 @@
 # Introduction
 A silly script interpreter for the RFJ project. The interpreter is less than 1,000 LOC and can only understand the very limited subset of JavaScript.
+\>\>[Demo](https://putara.github.io/dumb/)<<
 
 ## Language Specs
 
